@@ -1,0 +1,46 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.qozeemodeniran.ReportMyIncident"
+    },
+    "cordova-plugin-firebasex": {
+      "FIREBASE_ANALYTICS_COLLECTION_ENABLED": "true",
+      "FIREBASE_PERFORMANCE_COLLECTION_ENABLED": "true",
+      "FIREBASE_CRASHLYTICS_COLLECTION_ENABLED": "true",
+      "PACKAGE_NAME": "com.qozeemodeniran.ReportMyIncident"
+    },
+    "cordova-plugin-enable-multidex": {
+      "PACKAGE_NAME": "com.qozeemodeniran.ReportMyIncident"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "com.qozeemodeniran.ReportMyIncident"
+    },
+    "cordova-plugin-chooser": {
+      "PACKAGE_NAME": "com.qozeemodeniran.ReportMyIncident"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "com.qozeemodeniran.ReportMyIncident"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.qozeemodeniran.ReportMyIncident"
+    },
+    "cordova-plugin-file-transfer": {
+      "PACKAGE_NAME": "com.qozeemodeniran.ReportMyIncident"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-androidx": {
+      "PACKAGE_NAME": "com.qozeemodeniran.ReportMyIncident"
+    },
+    "cordova-plugin-androidx-adapter": {
+      "PACKAGE_NAME": "com.qozeemodeniran.ReportMyIncident"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+Admin Username: qozeemodeniran	
+Admin Password: lastBORN@231
+
+
+I was unable to implement fully, the user(non-admin) registration and login
+despite the fact that the database and table was created.
+But,the admin can successfully login and create post.
+
+I have provided the admin details in lines 1 and 2 for testing purpose.
+
+Regards,
+Qozeem Odeniran (Developer).
